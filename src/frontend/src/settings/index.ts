@@ -70,13 +70,7 @@ Rules:
 - All scores should be integers from 0 to 10, with 10 being the highest score and include an explanation.`
 
 export const Settings = {
-  system: ``,
-
-  individualImpact: 'Individual accomplishments that contribute to team, business or customer results.',
-  helpingOthers: 'Contributions to the success of others.',
-  leveragingOthers: 'Results that build on the work, ideas or effort of others.',
-  dni: 'Contributing toward a more socially and culturally diverse, and inclusive environment. Contribution includes active participation and/or leading sessions.',
-  other: '',
+  system: '',
   endpoint: '',
   apiKey: '',
   temperature: '0.2'

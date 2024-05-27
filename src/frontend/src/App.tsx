@@ -14,11 +14,6 @@ import { AiOutlineCloseSquare, AiOutlineEdit } from 'solid-icons/ai'
 const DEFAULT_SCORES: IScores = {
   overallScore: 0,
   overallExplanation: '',
-  // individualImpact: { score: 0, explanation: '' },
-  // helpingOthers: { score: 0, explanation: '' },
-  // leveragingOthers: { score: 0, explanation: '' },
-  // dni: { score: 0, explanation: '' },
-  // other: { score: 0, explanation: '' },
   objectives: [{
     keyword: 'indiviual',
     title: 'Individual Results',
@@ -426,11 +421,6 @@ function App() {
               </div>
             </div>
           ))}
-          {/* <ImpactArea title='Individual Impact' setSettings={setSettings} settings={settings} scores={scores} propName='individualImpact' /> */}
-          {/* <ImpactArea title='Individual Impact' setSettings={setSettings} settings={settings} scores={scores} propName='individualImpact' />
-          <ImpactArea title='Contributed to success of others' setSettings={setSettings} settings={settings} scores={scores} propName='helpingOthers' />
-          <ImpactArea title='Build on the work of others' setSettings={setSettings} settings={settings} scores={scores} propName='leveragingOthers' />
-          <ImpactArea title='D&I Impact' setSettings={setSettings} settings={settings} scores={scores} propName='dni' /> */}
         </aside>
 
       </div>
