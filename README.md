@@ -24,5 +24,13 @@ An AI tool to help write a review self assessment.
 
 ## Frontend
 
-- SolidJS
-- Axios
+- Main packages:
+  - SolidJS
+  - Axios
+  - Tailwindcss
+
+- Other packages:
+  - solid-icons
+  - solid-spoinner
+
+  
