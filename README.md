@@ -4,6 +4,8 @@ An AI tool to help write a review self assessment.
 
 ## Screenshot
 
+![Screenshot of the Self-Assessment Writing Assistant](/images/self-assessment-assistant.png)
+
 ## Features
 
 - Ability to create objective areas.
