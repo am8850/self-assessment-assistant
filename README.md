@@ -4,13 +4,13 @@ An AI tool to help write a review self evaluation.
 
 ## Screenshot
 
-![Screenshot of the Self-Assessment Writing Assistant](/images/self-assessment-assistant.png)
+![Screenshot of the Self-Evaluation Writing Assistant](/images/self-evaluation-writting-assistant.png)
 
 ## Features
 
-- Ability to create objective areas.
-- Ability to rate each objective area and provide a reason for the score.
-- Ability to help write the self-assessment.
+- Ability to create evaluations areas.
+- For each evaluation area the tool provides a score and a score reason.
+- Ability to help write the self-evaluation.
 
 ## Privacy
 
