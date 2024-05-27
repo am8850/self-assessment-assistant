@@ -1,2 +1,3 @@
-# self-assessment-assistant
-An AI self-assessment assisstant.
+# ai-evaluation-writer
+
+An AI tool to help write a self evaluation.
