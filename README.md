@@ -1,6 +1,6 @@
 # Self-Assessment Writing Assistant
 
-An AI tool to help write a self evaluation.
+An AI tool to help write a review self assessment.
 
 ## Screenshot
 
