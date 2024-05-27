@@ -6,7 +6,7 @@ An AI tool to help write a self evaluation.
 
 ## Requirements
 
-- OpenAI GPT 3 or 4 full endpoint and API key.
+- Azure OpenAI GPT 3 or 4 full endpoint and API key.
 
 ## Frontend
 
